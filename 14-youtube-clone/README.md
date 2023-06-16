@@ -1,0 +1,9 @@
+npm install axios
+npm i react-router
+npm i react-player
+npm i web-vitals
+npm i @emotion/react
+npm i @mui/material
+npm i react-scripts
+npm i @mui/icons-material
+npm install --legacy-peer-deps
